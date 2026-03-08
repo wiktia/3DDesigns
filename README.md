@@ -6,27 +6,29 @@ All models were designed and textured by me. The collection includes different f
 If you are interested in the FBX files or full 3D assets, please feel free to contact me.
 
 ## Preview
-<!-- Pierwszy wiersz: 1 obraz -->
-<div style="display: flex; justify-content: center; margin-bottom: 10px;">
-  <img src="https://github.com/user-attachments/assets/56e1f915-c863-4429-840c-91284a853328" width="300">
-</div>
+## Preview
 
-<!-- Drugi wiersz: 2 obrazy -->
-<div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
-  <img src="https://github.com/user-attachments/assets/f04a5f62-bd40-4ac6-9fb7-2c2d809ee675" width="300">
-  <img src="https://github.com/user-attachments/assets/a5422c02-1ed5-4577-9215-c6a993616f8b" width="300">
-</div>
+<!-- Wiersz 1: 1 szeroki obraz -->
+| |
+|---|
+| <img src="https://github.com/user-attachments/assets/56e1f915-c863-4429-840c-91284a853328" width="100%"> |
 
-<!-- Trzeci wiersz: 1 obraz -->
-<div style="display: flex; justify-content: center; margin-bottom: 10px;">
-  <img src="https://github.com/user-attachments/assets/7d8f031d-400e-4c01-8df5-ee4976c04047" width="300">
-</div>
+<!-- Wiersz 2: 2 obrazy obok siebie -->
+| <img src="https://github.com/user-attachments/assets/f04a5f62-bd40-4ac6-9fb7-2c2d809ee675" width="100%"> | <img src="https://github.com/user-attachments/assets/a5422c02-1ed5-4577-9215-c6a993616f8b" width="100%"> |
+|---|---|
 
-<!-- Czwarty wiersz: 2 obrazy -->
-<div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
-  <img src="https://github.com/user-attachments/assets/3858f5c3-8f5a-4eec-be4b-376c85e13973" width="300">
-  <img src="https://github.com/user-attachments/assets/5e0575c7-beb9-4789-b29a-c6350f119c5f" width="300">
-</div>
+<!-- Wiersz 3: 1 szeroki obraz -->
+| |
+|---|
+| <img src="https://github.com/user-attachments/assets/7d8f031d-400e-4c01-8df5-ee4976c04047" width="100%"> |
+
+<!-- Wiersz 4: 2 obrazy obok siebie -->
+| <img src="https://github.com/user-attachments/assets/3858f5c3-8f5a-4eec-be4b-376c85e13973" width="100%"> | <img src="https://github.com/user-attachments/assets/5e0575c7-beb9-4789-b29a-c6350f119c5f" width="100%"> |
+|---|---|
+
+<!-- Wiersz 5: 2 obrazy obok siebie -->
+| <img src="https://github.com/user-attachments/assets/68f67c15-1215-4471-a77f-ae03a59586ad" width="100%"> | <img src="https://github.com/user-attachments/assets/4064a1e2-9693-4cc8-a4e3-2cd446b0c279" width="100%"> |
+|---|---|
 
 <!-- Piąty wiersz: 2 obrazy -->
 <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
