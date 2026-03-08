@@ -30,8 +30,4 @@ If you are interested in the FBX files or full 3D assets, please feel free to co
 | <img src="https://github.com/user-attachments/assets/68f67c15-1215-4471-a77f-ae03a59586ad" width="100%"> | <img src="https://github.com/user-attachments/assets/4064a1e2-9693-4cc8-a4e3-2cd446b0c279" width="100%"> |
 |---|---|
 
-<!-- Piąty wiersz: 2 obrazy -->
-<div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
-  <img src="https://github.com/user-attachments/assets/68f67c15-1215-4471-a77f-ae03a59586ad" width="300">
-  <img src="https://github.com/user-attachments/assets/4064a1e2-9693-4cc8-a4e3-2cd446b0c279" width="300">
-</div>
+
