@@ -27,7 +27,8 @@ If you are interested in the FBX files or full 3D assets, please feel free to co
 |---|---|
 
 <!-- Wiersz 5: 2 obrazy obok siebie -->
-| <img src="https://github.com/user-attachments/assets/68f67c15-1215-4471-a77f-ae03a59586ad" width="100%"> | <img src="https://github.com/user-attachments/assets/4064a1e2-9693-4cc8-a4e3-2cd446b0c279" width="100%"> |
+| <img src="https://github.com/user-attachments/assets/e9b74886-a409-4a7b-b45c-00f7826bc193" width="100%"> | <img src="https://github.com/user-attachments/assets/4064a1e2-9693-4cc8-a4e3-2cd446b0c279" width="100%"> |
 |---|---|
+
 
 
