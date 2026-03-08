@@ -1,11 +1,6 @@
-This repository contains preview images of 3D furniture models created in Blender as part of my 3D design and modeling practice.
-
-All models were designed and textured by me. The collection includes different furniture styles and demonstrates work with modeling, geometry, and materials in Blender.
-
 ⚠️ This repository contains images only.
 If you are interested in the FBX files or full 3D assets, please feel free to contact me.
 
-## Preview
 ## Preview
 
 <!-- Wiersz 1: 1 szeroki obraz -->
